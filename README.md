@@ -27,7 +27,7 @@ Estos son algunos de los proyectos que he creado. Aunque surgieron como parte de
 - [La Perle Noire](https://giulianocharra.github.io/la-perle-noire/): Un sitio para un restaurante donde se pueden hacer reservas, pedidos y consultar eventos en diferentes locales.
 - [Conexión Total](https://giulianocharra.github.io/argentina_programa_tpi/): Una landing page para una empresa de servicio de internet donde se pueden ver tipos de servicios y hacer consultas o pedidos.
 
-## 🧠 ¿Por qué Elegirme?
+## 🏆 ¿Por qué Elegirme?
 Soy adaptable, colaborativo y aprendo rápidamente. Si se requiere alguna herramienta o tecnología nueva, estoy dispuesto a aprenderla para satisfacer las necesidades del proyecto. Disfruto de trabajar en equipo y tengo habilidades de comunicación que facilitan la colaboración en entornos ágiles.
 
 ## 📫 Cómo Contactarme
