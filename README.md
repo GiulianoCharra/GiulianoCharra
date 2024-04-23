@@ -32,8 +32,8 @@ Soy adaptable, colaborativo y aprendo rápidamente. Si se requiere alguna herram
 
 ## 📫 Cómo Contactarme
 Puedes encontrarme en las siguientes plataformas:
-- [GitHub](https://github.com/tu-nombre-de-usuario)
-- [LinkedIn](https://www.linkedin.com/in/tu-nombre-de-usuario/)
+- [GitHub](https://github.com/GiulianoCharra)
+- [LinkedIn](https://www.linkedin.com/in/giuliano-charra-marquez)
 
 ¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o comentario, no dudes en contactarme.
 
