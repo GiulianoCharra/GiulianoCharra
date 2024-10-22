@@ -20,7 +20,7 @@ Estoy actualmente explorando y aprendiendo sobre:
 Sigo las mejores prácticas para el desarrollo de software, incluyendo patrones de diseño, optimización para motores de búsqueda (SEO), y principios de desarrollo ágil.
 
 ## 🌱 Proyectos en Curso
-Estos son algunos de los proyectos que he creado. Aunque surgieron como parte de cursos de programación, todos ellos fueron diseñados y desarrollados por mí, aplicando mis propias ideas y enfoques:
+Estos son algunos de los proyectos que he creado. Aunque surgieron como parte de cursos de programación, todos ellos fueron diseñados y desarrollados por mí o por el equipo conformado en cada proyecto:
 
 - [Codecats Academy Backend](https://codecats-academy-backend.onrender.com/): Una plataforma para dictar cursos virtuales centrados en el mundo del desarrollo de software.
 - [Gym & CIA Frontend](https://giulianocharra.github.io/gym-frontend/): Una página para un gimnasio. Los clientes pueden consultar clases y horarios, mientras que el administrador puede gestionar el personal y clases.
